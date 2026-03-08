@@ -12,7 +12,5 @@
   "pouchdb_server": {
     "no-stdout-logs": true
   },
-  "admins": {
-    "dev": "-pbkdf2-f7588c0cc574a0f3d428bf9f1ab9f96a593313f7,13019f18c1801df1c01bb17e1dd15b1871ab1f3104151125,10"
-  }
+  "admins": {}
 }
